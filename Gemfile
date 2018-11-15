@@ -8,7 +8,7 @@ gem 'pg', '~> 0.21'
 gem 'puma'
 gem 'rails', '5.2.1'
 gem 'redis'
-gem 'bootstrap', '~> 4.1.0'
+gem 'bootstrap', '~> 4.1.2'
 gem 'jquery-rails'
 gem 'popper_js', '1.14.3'
 

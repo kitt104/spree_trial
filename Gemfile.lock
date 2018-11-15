@@ -213,7 +213,7 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   bootsnap
-  bootstrap (~> 4.1.0)
+  bootstrap (~> 4.1.2)
   bootstrap-sass (~> 3.3)
   devise
   dotenv-rails
