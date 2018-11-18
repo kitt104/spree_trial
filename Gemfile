@@ -12,10 +12,15 @@ gem 'redis'
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'font-awesome-sass', '~> 5.0.9'
-gem 'sassc-rails'
+gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
+
+gem 'spree', '~> 3.6'
+gem 'spree_auth_devise', '~> 3.3'
+gem 'spree_gateway', '~> 3.3'
+gem 'coffee-script', '~> 2.4', '>= 2.4.1'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
