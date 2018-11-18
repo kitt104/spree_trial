@@ -18,7 +18,7 @@ gem 'uglifier'
 gem 'webpacker'
 
 gem 'spree', '~> 3.6'
-gem 'spree_auth_devise', '~> 3.3'
+
 gem 'spree_gateway', '~> 3.3'
 gem 'coffee-script', '~> 2.4', '>= 2.4.1'
 
